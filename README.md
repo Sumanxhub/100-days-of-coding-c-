@@ -1,8 +1,9 @@
 # 100 Days of Coding C++
 In this Repo, you will learn complete c++ from basic to advance. Covering concepts of programming including DSA , OOPs.
 
-<img margin-left="300" width="25%" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" height="280">
+<img align="right" wmargin-right="300px" width="35%" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" height="280">
 <img align="right" width="25%" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" height="280">
+<img align="right" width="25%" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" height="280">
 ### 100 Days of Code 
 <Details>
   <summary> Content (click here) : </summary>
