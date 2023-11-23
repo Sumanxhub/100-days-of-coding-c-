@@ -3,7 +3,8 @@ In this Repo, you will learn complete c++ from basic to advance. Covering concep
 ### 100 Days of Code 
 <Details>
   <summary> Content (click here) : </summary>
-  Day 1: 4 Codechef questions completed.
+  
+  Day 1: 4 Codechef questions completed
 
   Day 2: Array 
 
